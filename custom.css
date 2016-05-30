@@ -29,7 +29,7 @@ code {
 .jump-link a:hover {
     text-decoration: none;
     color: #073642;
-    box-shadow: 5px 5px 5px #aaaaaa;
+    box-shadow: 2px 2px 2px #aaaaaa;
 }
 
 
