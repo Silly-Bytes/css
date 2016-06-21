@@ -9,21 +9,23 @@
     height: 0px;
 }
 
-.post h2
-{
+.post h2 {
     font-size: 1.3em;
 }
 
 code {
-    color: #d33682;
-    font-family: monospace;
     background: #f7f0dd;
-    padding: 3px;
-    margin: 2xp 0px;
     border-radius: 5px;
-    overflow: auto;
+    bottom: -5px;
+    box-shadow: 1px 1px 1px 1px #cccccc;
+    color: #d33682;
     display: inline-block;
-    box-shadow: 1px 1px 2px 1px #cccccc;
+    font-family: monospace;
+    margin-left: 2px;
+    margin-right: 2px;
+    overflow: auto;
+    padding: 0px 5px;
+    position: relative;
 }
 
 .entry-title a:hover {
