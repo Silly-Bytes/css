@@ -9,6 +9,11 @@
     height: 0px;
 }
 
+.profile-img {
+    border-radius: 30%;
+    box-shadow: 3px 3px 3px #888888;
+}
+
 .post h2 {
     font-size: 1.3em;
 }
