@@ -34,6 +34,10 @@ code{
     text-decoration: underline;
 }
 
+.jump-link{
+    margin-top: 35px;
+}
+
 .jump-link a {
     text-decoration: none;
     font-size: 100%;
