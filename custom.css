@@ -20,6 +20,22 @@
     font-size: 1.3em;
 }
 
+blockquote {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  color: #555;
+  text-shadow: 3px 3px 3px #ccc;
+}
+
+blockquote:before {
+  color: #999;
+  content: "\00a0“";
+  font-size: 3.5em;
+  line-height: 0.1em;
+  margin-right: 0.15em;
+  vertical-align: -0.4em;
+}
+
 code{
     color: #d33682;
     font-family: monospace;
