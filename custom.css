@@ -29,7 +29,7 @@ blockquote {
 
 blockquote:before {
   color: #999;
-  content: "\00a0“";
+  content: "\"";
   font-size: 3.5em;
   line-height: 0.1em;
   margin-right: 0.15em;
